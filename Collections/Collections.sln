@@ -3,7 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35004.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Collections", "Collections\Collections.pyproj", "{CBB8ED43-EA1D-4D38-8F0A-783294CBE2B6}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Collections_01", "Collections\Collections_01.pyproj", "{CBB8ED43-EA1D-4D38-8F0A-783294CBE2B6}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Collections_03", "Collections_03\Collections_03.pyproj", "{7FA44CD7-6E3E-4E36-95B2-1781E71571F6}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Collections_04", "Collections_04\Collections_04.pyproj", "{D9740425-A933-464B-A6C7-C014168BDA6E}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Collections_05", "Collections_05\Collections_05.pyproj", "{10F3F344-2BA8-4BB8-A7EF-76971F3F94B2}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Collections_06", "Collections_06\Collections_06.pyproj", "{19F4D985-1994-4FA7-9EEF-8BFD40D1489F}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Collections_07", "Collections_07\Collections_07.pyproj", "{F96BC3D6-D5A3-4C36-94D9-7092EEB6DB0F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +23,16 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{CBB8ED43-EA1D-4D38-8F0A-783294CBE2B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{CBB8ED43-EA1D-4D38-8F0A-783294CBE2B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FA44CD7-6E3E-4E36-95B2-1781E71571F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FA44CD7-6E3E-4E36-95B2-1781E71571F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9740425-A933-464B-A6C7-C014168BDA6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9740425-A933-464B-A6C7-C014168BDA6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10F3F344-2BA8-4BB8-A7EF-76971F3F94B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10F3F344-2BA8-4BB8-A7EF-76971F3F94B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19F4D985-1994-4FA7-9EEF-8BFD40D1489F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19F4D985-1994-4FA7-9EEF-8BFD40D1489F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F96BC3D6-D5A3-4C36-94D9-7092EEB6DB0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F96BC3D6-D5A3-4C36-94D9-7092EEB6DB0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

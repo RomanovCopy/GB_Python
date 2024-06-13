@@ -2,15 +2,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>cbb8ed43-ea1d-4d38-8f0a-783294cbe2b6</ProjectGuid>
+    <ProjectGuid>19f4d985-1994-4fa7-9eef-8bfd40d1489f</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Collections.py</StartupFile>
+    <StartupFile>Collections_06.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>Collections</Name>
-    <RootNamespace>Collections</RootNamespace>
+    <Name>Collections_06</Name>
+    <RootNamespace>Collections_06</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -21,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Collections.py" />
+    <Compile Include="Collections_06.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
