@@ -17,6 +17,12 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Function_06", "Function_06\
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Function_07", "Function_07\Function_07.pyproj", "{B28300CE-67FB-4976-8E89-1BB92E82F9FF}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Homework_01", "Homework_01\Homework_01.pyproj", "{92DFF1A3-6C5A-44A3-8876-72737E2B9468}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Homework_02", "Homework_02\Homework_02.pyproj", "{93FF65C4-7263-497D-A032-F10A4C06E51C}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Homework_03", "Homework_03\Homework_03.pyproj", "{81C52C68-F6D2-47A5-9631-6E94C99ACE29}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +43,12 @@ Global
 		{C7D84BFF-527B-4CCD-B7CE-2CB404462C36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B28300CE-67FB-4976-8E89-1BB92E82F9FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B28300CE-67FB-4976-8E89-1BB92E82F9FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92DFF1A3-6C5A-44A3-8876-72737E2B9468}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92DFF1A3-6C5A-44A3-8876-72737E2B9468}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93FF65C4-7263-497D-A032-F10A4C06E51C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93FF65C4-7263-497D-A032-F10A4C06E51C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81C52C68-F6D2-47A5-9631-6E94C99ACE29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81C52C68-F6D2-47A5-9631-6E94C99ACE29}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
