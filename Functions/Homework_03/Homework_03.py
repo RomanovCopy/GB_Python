@@ -148,7 +148,7 @@ def withdraw(amount):
             bank_account=temp
             response =f"Снятие с карты {amount} у.е. Процент за снятие {removal_percent} у.е.. Итого {bank_account} у.е."
         else:
-            response=f"Недостаточно средств. Сумма с комиссией {removal_summ.normalize()} у.е. На карте {bank_account} у.е."
+            response=f"Недостаточно средств. Сумма с комиссией {removal_summ} у.е. На карте {bank_account} у.е."
     else:
         print(f"Сумма должна быть кратной {MULTIPLICITY} у.е")
     if len(response)>0:
@@ -167,6 +167,17 @@ def exit():
     operations.append(response)
     
         
+
+
+
+
+
+
+
+
+
+
+
         
  
 
