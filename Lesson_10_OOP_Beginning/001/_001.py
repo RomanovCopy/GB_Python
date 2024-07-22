@@ -1,4 +1,4 @@
-class User:
+﻿class User:
     count=[]
     
     def __init__(self, name, phone):
@@ -11,6 +11,7 @@ u2=User('NoOne', '76-54-321')
 u1.count.append(42)
 u1.count.append(73)
 u2.counter=256
+
 u2.count.append(u2.counter)
 u2.count.append(u1.count[-1])
 
