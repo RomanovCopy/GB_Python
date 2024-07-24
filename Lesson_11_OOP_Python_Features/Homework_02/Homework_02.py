@@ -44,7 +44,16 @@ class Archive:
         self.number = number
 
     def __str__(self):
-        return f'Archive: {self.text}, Number: {self.number}, Text Archive: {self.archive_text}, Number Archive: {self.archive_number}'
+        return f'Text is: {self.text} and number is: {self.number}. Also {self.archive_text}, and {self.archive_number}'
     
     def __repr__(self):
         return f'Archive({self.text},{self.number})'
+
+
+archive1 = Archive("Запись 1", 42)
+archive2 = Archive("Запись 2", 3.14) 
+
+
+archive1 = Archive("First Text", 1)
+
+print(archive1)
