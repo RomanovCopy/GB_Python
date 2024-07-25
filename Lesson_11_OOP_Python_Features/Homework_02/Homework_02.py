@@ -32,11 +32,10 @@ class Archive:
 
     def __new__(cls, text, number):
         if cls._instance is None:
-            cls._instance = super(Archive, cls).__new__(cls)
-            return cls._instance
+            cls._instance = super().__new__(cls)
         else:
-            cls.archive_text.append(text)
-            cls.archive_number.append(number)
+            cls.archive_text.append(cls.text)
+            cls.archive_number.append(cls.number)
             return cls._instance
 
     def __init__(self, text, number):
